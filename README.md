@@ -1,1 +1,1 @@
-# jsvalidform
+Валидация форм регистрации на jquery и js
